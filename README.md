@@ -16,3 +16,6 @@ The lineament is a linear feature describing discontinuity in a landscape. The l
     
 ###### Example:
 * ``$python central_cmd.py c_zm_r0_200``
+
+### Input data:
+* [MHHC-Python-Input](https://github.com/OKaas/LineamentExtraction-MHHC-Input)
